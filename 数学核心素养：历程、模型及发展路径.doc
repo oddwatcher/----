@@ -1,0 +1,201 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style>.trR{ text-align:right;}
+#wraper{width:1190px; margin:0 auto; margin-bottom:10px;text-align:left;}
+#left{ float:left;width:250px; text-align:left;}
+#right{float:right;width:930px;text-align:left;border-top:2px solid #619bc0; padding-bottom:10px;}
+.border_w{ border:1px solid #d3d3d3;border-top:2px solid #619bc0;}
+.t01{height:30px;line-height:30px;border:1px solid #dddddd;padding-left:10px;background:url(../images/tbg01.jpg) repeat-x bottom; color:#1183c1; font-size:14px;}
+.con_01{ padding:10px;}
+.con_cbg{ background:url(../images/con_cbg.gif) repeat-y;}
+.con_bbg{ background:url(../images/con_bbg.gif) no-repeat left bottom; height:1px; line-height:1px; font-size:0;}
+
+.source{margin:15px;background:url(../images/linex.gif) repeat-x bottom; padding-bottom:30px; margin-bottom:30px;}
+.source .source-img{border:1px solid #d3d3d3; text-align:center; padding:5px;margin-bottom:10px; }
+.source p{color:#666666; font-weight:bold; font-size:12px;}
+.source .fblue{ color:#236bac; font-weight:normal;}
+
+.t_tj{ height:27px;padding-top:2px;margin:15px; background:url(../images/con_t_tj.gif) no-repeat left top; padding-left:10px; color:#FFFFFF; font-size:14px;}
+.c12_01{ margin-left:15px; margin-right:15px; margin-bottom:15px;}
+.c12_01 li{font-size:12px; line-height:24px; background: url(../images/dot.gif) no-repeat 2px 10px; padding-left:15px;}
+
+#artibodyTitle{color:#236bac;font-family:"宋体";font-size:20px;font-weight: normal;line-height:35px;text-align:center;margin-top:10px;	text-align:center;}
+#artisubTitle{font-family:"宋体";font-size:16px;font-weight: normal;line-height:28px;text-align:center;}
+.articl_info{margin-left:30px; margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.btn-img{
+	background-image:url(../images/allbg.png);
+	background-repeat:no-repeat;
+	font-size:12px;		
+	cursor:pointer;
+	border: 0px none;
+	display: inline-block;
+	vertical-align:middle;
+	text-align:center;}
+
+.artInfo{height:22px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;padding:5px;margin:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.artInfo li .collectionPage_link{
+	background-position:-509px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;		
+	color:#1183c1;	}
+.artInfo li .printPage_link{
+	background-position:-570px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+.artInfo li .downloadPage_link{
+	background-position:-631px -80px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+
+
+.artBaseInfo{line-height:24px; margin-bottom:5px;}
+.artBaseInfo .info_left{float:left;width:80px;}
+.artBaseInfo .info_right{float:left;width:790px;}
+
+.artBaseInfo dt{float:left;width:80px; color:#666666;line-height:20px; display:inline-block;}
+.artBaseInfo dd{color:#666666;line-height:20px;display:inline-block;}
+.artBaseInfo .col li{ float:left;width:210px; height:20px; line-height:20px;color:#666666;}
+
+.artBaseInfo .item{ float:left;width:50%;}
+.artBaseInfo .notice{
+	margin-left:10px;
+	width:61px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;
+	background-position:-448px -80px;	
+	color:#1183c1;}
+
+.artInfo{height:30px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;margin:20px 10px;}
+.artInfo div{ float:left;width:30%;height:30px; line-height:30px; text-align:center;}
+.artInfo div a{ margin-left:20px; margin-right:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.articl_info{margin-left:30px;margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.artBaseInfo{margin-bottom:5px;}
+.articl_info_t{float:left;width:80px;margin-right: -100%;font-weight:bold;line-height:24px;}
+.articl_info_c{float: left;width: 100%;}
+.articl_info_c .info_c{margin-left:80px; line-height:24px;}
+.artBaseInfo .marL{ margin-left:20PX;}
+.artBaseInfo .col_info{ float:left;width:30%;line-height:20px;}
+
+.fontSize{position: relative;right:0px;top:0px;font-size:12px; height:30px; line-height:30px; text-align:right;}
+.fontSize a{border:1px solid #c2c2c2;margin-right:10px;padding:4px 1px;*padding:1px; cursor:pointer;font-size:12px;}
+.fontSize a span{background:url(../images/page_a_36.png) repeat-x;padding:3px;}
+
+.fontSize a.now{border: #f9ad75 1px solid;padding:4px 1px;*padding:1px;}
+.fontSize a.now span{color:#ff7d27;background:url(../images/current_34.png) repeat-x bottom;padding:3px;}
+.artibody{margin-left:20px;margin-right:20px;font: 18px/180% "Microsoft YaHei","微软雅黑"; color:#666666;}
+.artibody p{margin-bottom:20px;}
+
+.fontSize A:link{ color:#000000;text-decoration:none;}
+.fontSize A:visited{ color:#000000;text-decoration:none;}
+.fontSize A:hover{ color:#FF0000;text-decoration:none;}
+.fontSize a.now:link{color:#ff7d27;text-decoration:none;}
+#Zoom img {max-width:600px; max-height:600px; scale:expression((this.offsetWidth > this.offsetHeight)?(this.style.width = this.offsetWidth >= 600 ? "600px" : "auto"):(this.style.height = this.offsetHeight >= 600 ? "600px" : "auto")); display:inline !important;}
+
+.t_artiInfo{font-size:14px; padding-left:20px;background:url(../images/linex.gif) repeat-x top; line-height:30px; margin-top:10px;}
+.li_artiInfo{margin-left:30px; margin-right:30px;padding-bottom:10px; }
+.li_artiInfo ul li{float:left;width:100%;padding:3px 0;}
+.li_artiInfo ul li .title{ float:left;width:65%;}
+.li_artiInfo ul li .author{ float:left;width:15%;}
+.li_artiInfo ul li .come{ float:right;width:20%;color:#999999; text-align:right;}
+
+
+.index_artInfo{height:36px; line-height:36px; border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1; margin-top:20px; padding-left:20px;  padding-right:20px;padding-right:10px; margin-bottom:10px; margin-left:10px;text-align:center;}
+.index_artInfo a.collectionPage_link{ background:url(../images/icon.gif) no-repeat 0 1px; padding-left:15px;}
+.index_artInfo a.printPage_link{background:url(../images/icon.gif) no-repeat 0 -55px; padding-left:15px;}
+.index_artInfo a.downloadPage_link{background:url(../images/icon.gif) no-repeat 0 -108px; padding-left:13px;}
+
+.index_body .main{margin-left:100px; line-height:28px;color:#000000; padding-bottom:30px; padding-top:20px;}</style></head><body><div id="wraper">
+            <div id="artTitles">
+                <h1 id="artibodyTitle">数学核心素养：历程、模型及发展路径</h1>
+                <h2 id="artisubTitle"></h2>
+            </div>
+            
+                <br class="cls">
+            </div>
+            <div class="articl_info">
+                <div class="artBaseInfo" id="autInfo">
+                    <div class="articl_info_t">作 者：</div>
+                    <div class="articl_info_c">
+                        <div class="info_c">
+                                <a target="_blank" href="/qw?s0=4&amp;s1=%e5%ad%99%e6%88%90%e6%88%90%2f%e8%83%a1%e5%85%b8%e9%a1%ba">孙成成/胡典顺</a>&nbsp;
+                        </div>
+                    </div>
+                    <br class="cls">
+                </div>
+                <div class="artBaseInfo" id="autDescription">
+                    <div class="articl_info_t">作者简介：</div>
+                    <div class="articl_info_c">
+                        <div class="info_c">孙成成（1990-），男，安徽淮南人，华中师范大学数学与统计学学院硕士研究生，从事数学课程和教学论研究；胡典顺（1965-），男，湖北孝感人，华中师范大学数学与统计学学院教授，从事数学课程和教学论研究（武汉  430079）.</div>
+                    </div>
+                    <br class="cls">
+                </div>
+                <div class="artBaseInfo" id="tAutInfo"></div>
+                <div class="artBaseInfo" id="orgInfo">
+                    <div class="articl_info_t">原文出处：</div>
+                    <div class="articl_info_c">
+                        <div class="info_c">教育探索</div>
+                    </div>
+                    <br class="cls">
+                </div>
+                <div class="artBaseInfo" id="astInfo">
+                    <div class="articl_info_t">内容提要：</div>
+                    <div class="articl_info_c">
+                        <div class="info_c">
+                            <p>数学核心素养不仅对数学教育的意义和价值的深度探索有重要作用，而且是将来数学课程开发以及学生适应社会生活的素质培养依据.我国数学核心素养的发展历程包括萌芽阶段、酝酿阶段、雏生阶段和探索阶段.在此基础上建立的数学核心素养的“素养魔方”模型具有整体性、内隐性、组合性和聚合性四个特征.数学核心素养的发展路径：把握整体性数学教学，创设真实、合理的数学情境，注重形成性评价.</p>
+                        </div>
+                    </div>
+                    <br class="cls">
+                </div>
+                <div id="artPdcInfo" class="artBaseInfo">
+                    <div class="col_info"><b>期刊代号：</b>G312 </div>
+                    <div class="col_info"><b>分类名称：</b>高中数学教与学 </div>
+                    <div class="col_info"><b>复印期号：</b>2017 年 05 期 </div>
+                    <br class="cls">
+                </div>
+                <div class="artBaseInfo" id="artKeyword">
+                    <div class="articl_info_t">关 键 词：</div>
+                    <div class="articl_info_c">
+                        <div class="info_c">
+                                    <a target="_blank" href="/qw?s0=7&amp;s1=%e6%a0%b8%e5%bf%83%e7%b4%a0%e5%85%bb">核心素养</a>&nbsp;
+                                    <a target="_blank" href="/qw?s0=7&amp;s1=%e6%95%b0%e5%ad%a6%e6%95%99%e5%ad%a6">数学教学</a>&nbsp;
+                                    <a target="_blank" href="/qw?s0=7&amp;s1=%e7%b4%a0%e5%85%bb%e9%ad%94%e6%96%b9">素养魔方</a>&nbsp;
+                                    <a target="_blank" href="/qw?s0=7&amp;s1=%e6%95%b0%e5%ad%a6">数学</a>&nbsp;
+
+                        </div>
+                    </div>
+                    <br class="cls">
+                </div>
+                <div class="artBaseInfo" id="artTitleNote"></div>
+                <a id="readArea" name="readArea"></a>
+                
+            </div>
+            <div id="artText"><div class="artibody" id="Zoom" style="font-size: 14px;">
+    <p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;近些年来，“核心素养”已经成为全球范围内教育理论、教育实践和教育研究等领域的重要议题.核心素养成了引领课程教材改革、教学方式变革、教师专业发展、教学质量评价等教育活动的上位概念.当前，我国高中阶段的新一轮课程标准修订工作正在进行中，在社会发展和时代要求下，我国学生核心素养模型的构建是课标修订中的重点工作之一[1].这就要求，每个学科都要落实能彰显学科本质以及独特育人价值的核心素养.而就数学学科而言，数学核心素养的提出不仅是对数学教育的意义和价值的深度探索，而且是将来数学课程开发以及学生适应社会生活的素质培养的依据.<p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、我国数学核心素养的发展历程<p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;新中国成立不久，教育部门以苏联十年制学校数学教学大纲和课本为蓝本，于1953年正式公布了《中学数学教学大纲（草案）》.该大纲提出要重视基础知识和基本技能教学，1956年教育部对大纲进行了修订，修订说明部分指出，中学数学教学要能让学生掌握算术、代数、几何和三角的基础知识，使他们能利用这些知识来解决实际问题，进而发展他们的逻辑思维和空间想象力[2].这一时期大纲中完全没有培养数学核心素养的意识，但是大纲中隐约存在着培养学生基本数学素养的脉络，所以从新中国成立到20世纪五十年代末，这一时期属于数学核心素养的萌芽阶段.<p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在中共中央提出的“调整、巩固、充实、提高”方针指导下，1961年教育部制订了《全日制中小学数学教学大纲（草案）》.1963年5月，在“六一”大纲的基础上又编制了12年制的《全日制中学数学教学大纲（草案）》，第一次明确提出要“培养学生正确而且迅速的计算能力、逻辑推理能力和空间想象能力”的要求.1978年制订了《全日制学校中学数学教学大纲（试行草案）》，首次提出了“逐步培养学生分析问题和解决问题的能力”.1982年制订的《全日制六年制重点中学数学教学大纲（征求意见稿）》明确提出了要“逐步形成运用数学来分析和解决实际问题的能力”.1986年11月，国家教委制订的《全日制中学数学教学大纲》，正式把“双基”和“三大能力”作为中学数学教学目标的核心内容[3].这一时期大纲中没有明确提出“数学素养”一词，只是讨论了与数学素养相关的“三大能力”等问题，所以20世纪六十年代初到八十年代中期属于数学核心素养的酝酿阶段.<p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1988年，我国颁布的《九年义务教育全日制初级小学数学教学大纲》指出，我国公民所具备的文化素养应当包括一定的数学基础知识和基本技能.从中可以看出，此大纲已将“双基”视为公民的一种素养.而在1992年颁发实施的《初级中学数学教学大纲》里则出现了数学素养，这是我国首次在大纲中出现数学素养一词[4].2000年《全日制普通高级中学数学教学大纲（试验修订版）》、2001年《九年义务教育数学课程标准（实验稿）》，2003年《普通高中数学课程标准（实验）》以及《义务教育数学课程标准（2011年版）》（以下简称《标准》）中陆续引入数学素养概念，如，在2003年《普通高中数学课程标准（实验）》中明确指出个人发展与社会进步需要数学素养的提高；又如，在《标准》正文中出现“数学素养”一词达11次，并多次提出要通过数学知识的学习，让学生获得作为未来公民所必需的数学素养，以满足社会进步和个人发展的需要[5].这一时期，大纲中开始出现素养和数学素养等名词，数学教育学者对数学素养有了一定认识，为下一步发现和认识数学核心素养打下基础.所以，20世纪八十年代末到2013年这一时期属于数学核心素养的雏生阶段.<p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《教育部关于全面深化课程改革，落实立德树人根本任务的意见》于2014年3月30日正式印发，文件中提出了“核心素养”这个关键词.虽然在数学大纲和课标中目前还没有明确提出数学学科的核心素养，但是国内的很多数学教育者对于数学核心素养有了自己的看法和认识.马云鹏教授认为，数学核心素养可以理解为学生学习数学应当达成的有特定意义的综合能力.核心素养基于数学知识技能，又高于具体的数学知识技能，它反映了数学本质与数学思想，是在数学活动过程中形成的，具有综合性、阶段性和持久性[6].他还指出，在《标准》中提出的10个核心概念：数感、符号意识、空间观念、几何直观、数据分析观念、运算能力、推理能力、模型思想、应用意识和创新意识实际上就是数学核心素养.数学核心素养包含具有数学基本特征的思维品格和关键能力，是数学知识、技能、思想、经验及情感、态度和价值观的综合体现，它是数学课程目标的集中表现，反映课程内容的主线，聚焦课程目标要求，也是学业质量标准的集中反映[7].也有学者用这样的一个式子来表述数学核心素养，即数学核心素养=数学思考×<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/G312/2017/G312AB5163.jpg">，正确的数学思考和积极的数学态度会产生正面效果，会促进数学核心素养的提升，否则会产生负面效果，抑制数学核心素养的提升[8].在高中阶段，课程标准里拟定了6个数学核心素养，分别是抽象能力、逻辑推理与交流、建模能力与反思、运算能力、几何直观和空间想象、数据分析与知识获取[7].高中数学课标修订组给出了更加简明的六大核心素养名称：数学抽象、逻辑推理、数学建模、直观想象、数学运算和数据分析.这一时期百家争鸣，数学教育者们意识到数学核心素养的重要地位，逐步摸索数学核心素养的内涵，并就各自对数学核心素养的理解展开了热烈探讨，所以这一时期是数学核心素养的探索阶段.<p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;综上所述，到目前为止国内对数学核心素养的研究可以分为四个阶段，即萌芽阶段、酝酿阶段、雏生阶段和探索阶段（如图1）.<p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/G312/2017/G312AB501.jpg"><p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、数学核心素养模型与特征<p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/G312/2017/G312AB502.jpg"><p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;张奠宙先生把数学的核心素养分为“真、善、美”3个维度“真”是指理解理性数学文明的文化价值，体会数学真理的严谨性和精确性；“善”是指用数学思想方法分析、解决实际问题的基本能力；“美”是指喜欢数学，热爱数学，并能够欣赏数学的智慧之美[7].笔者根据“真、善、美”3个维度构造出数学核心素养独特的模型——素养魔方（如图2）.魔方是一个典型的三维空间几何体，它曾被誉为世界三大智力玩具之一.魔方之中所蕴含的组合、对称、置换和概率等数学思想可以培养人们数学“真”维度下的素养；魔方的基本构造要求人们需要具备较强的空间想象力，它每种复原魔方的方法都有一定公式，都需要遵循一定原则，这意味着魔方在所有的变化中都需不断抽象其本质，推理其过程，这就要求人们需要具备较强的抽象概括能力和推理论证能力.在魔方复原的过程中要不断提高运算速度，寻找出“最优解”，这要求人们需要具备较强的运算求解能力.魔方不但可以锻炼人的思维缜密性，而且可以培养人的意志品质，培养人们数学的思想方法，可以培养人们数学“善”维度上的素养.在简单、纯朴的魔方背后，隐藏着许多简单而美丽的规律，这让复杂的数学以简单而漂亮的形式展现，从这角度上说魔方可以培养人们数学“美”维度上的素养，这些与张奠宙先生所提出的“真、善、美”3个维度的素养是相称的.所以，用魔方代表数学核心素养模型是恰到好处的，其中六大核心素养相当于“素养魔方”的六个面.弗利德曼曾指出，数学思想是数学逻辑结构的一个特殊的和最重要的要素.整个数学科学就是建立在这些思想基础上的，并按照这些思想发展起来.数学基本思想是研究数学科学不可缺少的思想，也是学习数学及理解和掌握数学所应追求和达成的目标.数学基本思想是数学科学本质特征的反映，是数学科学的基石[6].所以数学基本思想是六大数学核心素养的基础和本质体现，也是六大核心素养所要突显、表达和传递的真谛.故而数学基本思想是“素养魔方”的中心块.从“素养魔方”中我们可以看出数学核心素养具有整体性、组合性、内隐性和聚合性四个特征.<p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.整体性<p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;数学素养通常是从整体上来说的，它是一个系统并具有综合性特征，任何一种单独的特征都难以表征数学素养的全部[9]，这意味着从数学素养凝练出来的数学核心素养也是系统的和综合的.不同领域的核心素养在其内涵和外延上都具有各自的独立性，然而在逻辑上却又是一个有机整体，且每个核心素养能从若干维度上简明扼要地概括其主要表现[7].数学学科中每一个核心素养都有特殊地位，他们在发现问题、提出问题、分析问题与解决问题等不同环节的数学活动中发挥着不同的作用.但是六个核心素养它们不是两两“不交”的独立素养，而是一个相互相互“紧衔”的有机联系的整体.<p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.内隐性<p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;内隐性是在相对安静的情况下不易被发现的特性.例如，我们可以看到一个人的外貌或听到一个人的自我表述，但却不能直接看到他的素养和能力.就像一个魔方放置在桌面上，不管魔方怎么放置，总会有几个面是看不到的.抽象能力、运算能力和逻辑推理能力的培养在数学教学过程中受到极大的重视，而数学建模与数据处理则在以前强调得较少.所以数学抽象、数学运算、逻辑推理和直观想象是在数学活动过程中最容易体现出来的核心素养，而数学建模和数据分析相对来说就是比较隐蔽的核心素养.隐蔽的数学素养就像是魔方上我们看不到的面，但是我们知道它们是存在的.换言之，六大数学核心素养会相互隐蔽在彼此之间，需要我们去发现和挖掘，而发现和挖掘的方式也是需要我们深思熟虑的.<p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.组合性<p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《标准》指出数学核心素养一般与一个或几个学习领域内容有密切关系.某些核心素养与单一的学习领域内容相关，有些核心素养不直接指向某个单一的领域，而是与几个领域都有紧密的联系[6].例如，在数学抽象这一领域中，数学抽象的对象既可以是现实世界中的空间形式和数量关系，也可以是数学思维中的空间形式和数量关系[10].所以数学抽象离不开直观、推理、运算和模型元素的辅助.又如，数学建模是运用数学的语言和工具，对现实世界的问题进行抽象和加工，进而解决实际问题的过程.在数学建模过程中，需要运用分析、推断、求解、决策等来完成实践—理论—实践这一循环，并得到最终能经受实际检验的结论，这其中直观、推理、运算、模型等元素交互运用发挥着巨大的作用[11].所以，通过“魔方变换”总是可以让某一核心素养领域中的某些元素转移到其他核心素养领域中进行重新组合.但最关键的是这个转移组合的途径和过程，通过什么方式、经历怎样的过程和步骤才能达到所需要的效果，这是需要更加深入的研究与探索的.<p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.聚合性<p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;数学基本思想“是数学发展所依赖和所依靠的思想”[12].米山国藏也曾说过，学生即使会忘记他们曾经所学过的知识，如概念、定理、法则和公式等，但是数学精神、思想和方法却能铭刻在他们心中，并使他们终身受益.由此可以看出，数学基本思想是六大核心素养的中心块，它隐藏于六大核心素养包裹之中，又与六大核心素养紧密相连.“素养魔方”中，每一个小面旋转都是围绕着同一个中心而动，六大素养领域元素之间流动、融合都脱离不了“素养魔方”的中心块.一旦失去这个中心块，那么这六大核心素养之间就不能互通交融，就会导致各大核心素养域僵硬和孤立.所以数学六大核心素养是向着数学基本思想这个中心块聚合的.<p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三、数学核心素养的发展路径<p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.把握整体性数学教学<p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“素养魔方”的整体性体现在六大数学核心素养域之间的统整并不是简单的面面相交也不是纯粹的叠加，这种整体性不仅是六大数学核心素养的有效整合，而且是学习者对其所拥有的数学知识、数学能力和数学品质的有效整合.现在，大部分数学教师是按照教科书的公理化体系教学的，学生往往学到的是“线性知识”，很难将各大核心素养有效地整合起来，容易形成“只见树木，不见森林”的状况.这也必然导致学生头脑中的已有的知识点之间的联系不够紧密，知识迁移能力较弱，难以将所培养的核心素养灵活有效地用于实际中.因此，教师在教学过程中，要以教学内容和学生具体情况为基础，注重教学内容的完整性、知识结构的完整性、教学方法的完整性，以促进学生数学核心素养的整体性提高.<p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.创设真实、合理的数学情境<p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“素养魔方”的内隐性表明，在某一知识模块或数学活动中六大核心素养并非全部都能突显，但是我们可以借助一定的方法或手段将隐性核心素养以独特的方式呈现出来.数学核心素养是在学生体验真实情境、经历数学活动、感悟数学真谛的过程中产生的.所以，在数学活动中创设真实的数学情境是挖掘隐性核心素养的有效方法.培养和发展学生的显性和隐性的数学核心素养，需要有计划、有目的和自然地将其引入数学教学中，并以最可行的方式呈现出来.创设数学真实问题情境突显核心素养的方法有：以数学故事和数学史创设趣味型情境，以数学知识的现实价值创设应用型情境，以数学探究活动或实验创设活动型情境，以信息技术为工具创设动画型情境，以数学知识在数学的起源、发展、完善和应用的过程创设知识型情境，等等.<p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.注重形成性评价，存优补缺<p></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“素养魔方”呈现出的是一个可组合的整体性模型，这意味着其位面变换能让每个素养域或多或少地含有其他素养域的元素.这就要求在实际数学评价过程中，教师对学生的评价应该是对学生六大核心素养全面的、多元的评价.而形成性评价注重整个教与学的过程，它强调通过多种渠道来收集、了解、分析和掌握学生的需求.每一位学生都同时拥有核心素养的优势领域和弱势领域，表现为每一个个体素养的差异性和个体化.数学教育者需要通过多方面收集和分析每位学生的素养层次，将学生某一学习阶段数学核心素养的优势与不足清晰呈现，并以此为依据尝试将学生的优势核心素养域的特点迁移到弱势域中，促使其弱势域也得到尽可能的发展.
+</div>
+<div class="page-list">
+    <div class="pageNav" id="pageList"></div>
+</div>
+</div>
+            
+            <br class="cls">
+        </div></body></html>

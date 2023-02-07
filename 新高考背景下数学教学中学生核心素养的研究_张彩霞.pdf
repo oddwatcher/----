@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"></meta>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"></meta>
+    <meta name="renderer" content="webkit"></meta>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
+    <meta name="description" content=""></meta>
+    <meta name="author" content=""></meta>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"></meta>
+    <link rel="shortcut icon" href="/docdown/favicon.ico"  type="image/x-icon">
+    <title>CNKI原文下载服务</title>
+    <link rel="stylesheet" href="/docdown/css/global.css"/>
+</head>
+<body>
+<div class="Mmain">
+    <h1 class="Mhd">提示信息</h1>
+    
+        
+        <div class="Mbd">
+            <p class="Mcont">
+                <span>抱歉，您的本次会话已超时，请您重新下载！</span>
+            </p>
+        </div>
+        
+        <!--<div class="Mbd" th:case="'10201'">
+            <p class="Mcont" th:title="${message}">
+                <span th:text="'系统错误('+${#strings.abbreviate(message, 30)}+')，请联系客服解决！'"></span>
+            </p>
+        </div>-->
+        
+    
+    <input id="code" name="code" type="hidden" value="10009">
+    <input id="message" name="message" type="hidden" value="请求超时(url=http://docdown.cnki.net/docdown/fulltext/download,queryStr=q=NP7oX%2BLD6jdCNfVk3NNhrm9MJp3d6yNDS%2Fvyi4YVgZN7fhcvBouWmO3Vx%2BeShqnzzNWP27br59N1ppbA8IrSFRMUGrMSP3NcjkiFqRfCQeGmlqkSY%2FWe2R1%2BpQbsWsxPkJBWRBvRFNyKOlJGjMfSvTx0%2FNIwdUQUoxFKPnjQCZJN1Jv6ZdH27Pbm%2FFND6zfKk9pUACm8sisgjc4OU%2FBRYI6L2FFvduIYNZtCuzrXf7ZdY8QRP3ZTMblZPMV3p5kU8Boi712mBR0KmJ4b3srIl3PC%2FDxEEI9iG9r5b27ik9zVcRxzh30sd3wXSOyHpzOMbr1QrLJZQgLoAJXiU3bwzmgG5buWwKxpxL611gaLiWxN0Hua24N82f2vJjFnHNPPxJFC9EJ%2BJlbrKva4xazmEGQZRiLT6bKBjchrFIdF3AD08ucmZrhOTkc87R16ZcSvIwAzd6UCNtNym%2FPBqB8WVufRB6odcoBa8rFxzg8%2BYjGmGUEYfVjunNMhmDQYMM6Kw0urlh9M19wq8i4DobyTRJG3qnvHTzvJmgKBLVn43hPNwAe%2FKTk6mM0xVjtaCnNm&amp;invoice=DFGG7av3OLL%2BlyiRTzq6FGXOVfULpZzrEBoqy01PWnx5%2FieiQkOq3FAjNAluE%2Fj8NSKP6q3WCvbLt7IFOJ5xoy23PJVNvHR6QbslCr435eBUcEZIHMLObAW%2Bn%2BiGf03fXzv5C1ueEBq2FS9sfjWLGoCFwLUn1aW8fyJ%2B0UH5rK4%3D)">
+</div>
+</body>
+</html>
