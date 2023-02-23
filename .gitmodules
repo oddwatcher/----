@@ -1,0 +1,3 @@
+[submodule "cajtopdf"]
+	path = cajtopdf
+	url = git@github.com:oddwatcher/cajtopdf.git
